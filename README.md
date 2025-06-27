@@ -3,16 +3,19 @@ F2CAU-Net: A Dual Fuzzy Medical Image Segmentation Cascade Method Based on Fuzzy
 
 **We are working on a reference document for running the code, you can first view our code in the file.**
 
+<br>
 
 ![image](https://github.com/Choutyear/F2CAU-Net/blob/main/Figs/F1.jpg)
 
 F2CAU-Net model architecture. We introduce fuzzy convolution modules (blue rectangles) to enhance the convolutional neural network’s ability to model fuzzy boundaries and regions. In addition, a fuzzy attention mechanism (purple rectangle) is incorporated into the skip connection to optimize the segmentation results.
 
+<br>
 
 ![image](https://github.com/Choutyear/F2CAU-Net/blob/main/Figs/F2.jpg)
 
 Structure of the fuzzy convolution layer. The module consists of two parallel branches: (1) a standard convolutional path that extracts basic feature maps through two 3×3 convolutions; (2) a fuzzy logic path where each pixel is processed by Gaussian membership functions to obtain fuzzy activations.
 
+<br>
 
 ![image](https://github.com/Choutyear/F2CAU-Net/blob/main/Figs/F3.jpg)
 
