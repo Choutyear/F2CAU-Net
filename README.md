@@ -1,7 +1,8 @@
 # F2CAU-Net
 F2CAU-Net: A Dual Fuzzy Medical Image Segmentation Cascade Method Based on Fuzzy Feature Learning
 
-We are working on a reference document for running the code, you can first view our code in the file.
+**We are working on a reference document for running the code, you can first view our code in the file.**
+
 
 ![image](https://github.com/Choutyear/F2CAU-Net/blob/main/Figs/F1.jpg)
 
